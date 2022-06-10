@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!--
+    FLOOD-IT! GAME
+    
+
+    Try it on mobile and PC, it has adaptive design
+-->
+<html>
+    <head>
+        <title>FLOOD-IT! GAME</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/jquery.shadow-animation/1.11.0/jquery.animate-shadow-min.js"></script>
+        <script src="https://cdn.jsdelivr.net/jquery.color-animation/1.6.0/jquery.animate-colors-min.js"></script>
+        <script src="https://cdn.rawgit.com/HackedBeat/jquery-confirm/master/dist/jquery-confirm.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.0.1/jquery-confirm.min.css" />
+        <style id="addedCSS" type="text/css"></style>
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <script src="main.js"></script>
+    <body>
+        <div id="canvas">
+            <div id="top">
+                <span class="hidden" id="game-name">FLOOD-IT! GAME</span>
+
+                <div id="level-wrapper">      
+                    <span>LEVEL: </span>
+                    <div id="levels-select">
+                        <select id="level">
+                            <option data-id="1">Easy</option>
+                            <option data-id="2">Medium</option>
+                            <option data-id="3">Hard</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div id="content">
+                <div id="navigation_bar">
+                    <div class="dark-bkgrnd" id="colors-wrap">
+                        <div id="colors">
+                            <div id="red"></div>
+                            <div id="pink"></div>
+                            <div id="purple"></div>
+                            <div id="blue"></div>
+                            <div id="light_blue"></div>
+                            <div id="green"></div>
+                            <div id="yellow"></div>
+                            <div id="orange"></div>
+                        </div>
+                    </div>
+
+                    <div id="steps-wrap">
+                        <span>Steps:</span>
+                        <span id='steps'>0</span> /
+                        <span id='maxSteps'>20</span>
+                    </div>
+                    <div class="dark-bkgrnd hidden" id="score">
+                        <div id='score_txt'>BEST SCORE:</div>
+                        <div id="score-table">
+                            <div id="easy">
+                                <span>Easy: </span>
+                                <span id="ez_score"> &mdash;</span>
+                            </div>
+                            <div id="medium">
+                                <span>Medium: </span>
+                                <span id="med_score"> &mdash;</span>
+                            </div>
+                            <div id="hard">
+                                <span>Hard: </span>
+                                <span id="hrd_score"> &mdash;</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="field"></div>
+            </div>
+            <button id="new-game">New Game</button>
+        </div>
+        <div class="hidden" id="hidden-score"></div>
+        <footer>
+            <div>Please leave a like if you enjoyed! :)</div>
+            <div id="copyright">RAJ KANDANE ©copyright <span id="year">2021</span></div>
+        </footer>
+    </body>
+</html>
