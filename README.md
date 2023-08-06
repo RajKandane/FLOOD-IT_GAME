@@ -84,7 +84,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 For any inquiries or feedback regarding the project, you can contact me at:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dkteriteshkumarkandane/)
+- LinkedIn: [RITESHKUMAR KANDANE](https://www.linkedin.com/in/dkteriteshkumarkandane/)
 
 ---
 
