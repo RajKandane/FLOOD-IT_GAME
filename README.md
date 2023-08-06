@@ -2,10 +2,11 @@
 
 Feb 2021 - Jul 2022
 
+![Game Screenshot 1](Screenshot/Screenshot%20(60).png)
+![Game Screenshot 2](Screenshot/Screenshot%20(61).png)
+![Game Screenshot 3](Screenshot/Screenshot%20(62).png)
+![Game Screenshot 4](Screenshot/Screenshot%20(63).png)
 
-# Flood-It_Game
-
-![Game Screenshot](Screenshot/Screenshot (60).png) <!-- Replace 'path/to/screenshot.png' with the actual path to the screenshot of your game -->
 
 ## Introduction
 
