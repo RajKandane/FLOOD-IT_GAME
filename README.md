@@ -64,7 +64,7 @@ To play the Flood-It_Game, follow these steps:
 
 ## Sample Input/Output
 
-Sample input and output for test cases are provided in the [Sample_Input_Output.md](Sample_Input_Output.md) file.
+Sample input and output for test cases are provided in the [Sample_Input_Output.md](Logic) file.
 
 ## Contribution Guidelines
 
