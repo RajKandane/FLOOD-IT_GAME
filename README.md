@@ -1,9 +1,16 @@
 # FLOOD-IT_GAME
 
+Feb 2021 - Jul 2022
+
+## FLOOD-IT GAME DEMO 
+
+Check out the Hangman game in action on YouTube:
+
+
 [![FLOOD-IT GAME](https://img.youtube.com/vi/2vAjG2BSlO8/0.jpg)](https://youtu.be/2vAjG2BSlO8)
 
 
-Feb 2021 - Jul 2022
+## FLOOD-IT GAME SCREENSHOT 
 
 ![Game Screenshot 1](Screenshot/Screenshot%20(60).png)
 ![Game Screenshot 2](Screenshot/Screenshot%20(61).png)
