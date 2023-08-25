@@ -2,13 +2,14 @@
 
 Feb 2021 - Jul 2022
 
-## FLOOD-IT GAME DEMO 
+## FLOOD-IT GAME DEMO
 
-Check out the FLOOD-IT GAME in action on YouTube:
-
-
-[![FLOOD-IT GAME](https://img.youtube.com/vi/2vAjG2BSlO8/0.jpg)](https://youtu.be/2vAjG2BSlO8)
-
+<div align="center">
+  <p>Check out the FLOOD-IT GAME in action on YouTube:</p>
+  <a href="https://youtu.be/2vAjG2BSlO8">
+    <img src="https://img.youtube.com/vi/2vAjG2BSlO8/0.jpg" alt="FLOOD-IT GAME">
+  </a>
+</div>
 
 ## FLOOD-IT GAME SCREENSHOT 
 
